@@ -1,7 +1,5 @@
-# interview-env
-
-Simple js + jest + nodemon scaffolding to quickly work through
-interviews which need local setup.
+# event-house
+Record everyday events that take place in your life.
 
 ## Available scripts:
 
