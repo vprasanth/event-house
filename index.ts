@@ -1,3 +1,3 @@
-const { hello } = require('./lib/hello');
+import { hello } from "./lib/hello";
 
 console.log(hello("world"));
